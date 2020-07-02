@@ -1,0 +1,10 @@
+adminUser:
+  password: local:otterginger/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: andrzej.pioro@gmail.com
+  token: local:otterginger/pipelineUser:token
+  username: andrzejpioro
+prow:
+  hmacToken: local:otterginger/prow:hmacToken
